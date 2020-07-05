@@ -1,1 +1,1 @@
-git remote set-url origin   https://DennisMat:<pwd>@github.com/JenkinsTest.git
+git remote set-url origin   https://DennisMat:<pwd>@github.com/DennisMat/JenkinsTest.git

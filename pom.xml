@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.springframework</groupId>
-    <artifactId>gs-spring-boot-docker</artifactId>
+    <artifactId>jenkins-test</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
     <name>Jenkins Test</name>
@@ -16,11 +16,6 @@
         <version>2.2.1.RELEASE</version>
         <relativePath />
     </parent>
-
-    <properties>
-        <docker.image.prefix>springio</docker.image.prefix>
-        <java.version>1.8</java.version>
-    </properties>
 
     <build>
         <plugins>
